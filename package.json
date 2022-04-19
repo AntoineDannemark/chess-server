@@ -1,0 +1,17 @@
+{
+  "name": "chess-server",
+  "version": "1.0.0",
+  "description": "chess socket server",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "antoine dannemark",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
